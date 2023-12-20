@@ -1,3 +1,3 @@
 functiongetName(fisrtName, sirName) {
-    fisrtName + "" + sirName
+    fisrtName + "<< >>" + sirName
 }
